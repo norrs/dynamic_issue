@@ -1,0 +1,9 @@
+{
+  "methodCalls": [
+    {
+      "class": "\\Helper",
+      "method": "newInstanceArgs",
+      "position": 0
+    }
+  ]
+}
